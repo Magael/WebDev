@@ -9,13 +9,13 @@
 ## Versatile with an ability to adapt to any situation
 ---
 
- |Header 1  |  Header 2 |
+ |**Question**  |  **Answer** |
  |:---------: | :------------: |
   | Birthday| 20/01|
  |Gender | Female|
  |Favorite color | Black|
  |Favorite food | Steak|
- |Pinneapple on pizza | - [ ] Yes - [x] No|
+ |Pinneapple on pizza | - [ ]Yes - [x]No|
 
 ---
 ## Hobbies 
@@ -52,4 +52,4 @@
 
 
 
-<< previous || da SILVEIRA || next >>
+<< previous || da SILVEIRA || ![next >>](https://github.com/Hallomoto-beta/challenge-markdown/blob/main/markdown.md)
