@@ -2,17 +2,17 @@
 
 *You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.* – Unknown\
 
-![Me](/WebDev/me.jpg)
+![Me](/me.jpg)
 
 ## Versatile with an ability to adapt to any situation
 
 Create a table with the following structure:
-
-Birthday: dd/mm
-Gender: ?
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+---------------------|------------
+Birthday:| dd/mm
+Gender: | ?
+Favorite color: | ?
+Favorite food: | ?
+Pinneapple on pizza: | Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
 Hobbies (smaller header)
 This should contain a bullet list of your hobbies.
