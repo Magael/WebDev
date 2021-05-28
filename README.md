@@ -1,9 +1,9 @@
 #Elsa da Silveira
 
 *You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.* – Unknown
-![Me](\me.jpg)
+![Me](/me.jpg)
 
-Me, in one sentence (smaller header)
+##Versatile with an ability to adapt to any situation
 
 Create a table with the following structure:
 
