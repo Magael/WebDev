@@ -7,7 +7,7 @@
 ## Versatile with an ability to adapt to any situation
 
 Create a table with the following structure:
----------------------|------------
+--------------------- | ------------
 Birthday:| dd/mm
 Gender: | ?
 Favorite color: | ?
