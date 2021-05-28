@@ -6,13 +6,13 @@
 
 ## Versatile with an ability to adapt to any situation
 
-------------- | ------------
-
-Birthday| 20/01
-Gender | Female
-Favorite color | Black
-Favorite food | Steak
-Pinneapple on pizza | Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+ Header 1        Header 2 
+ ------------- | ------------
+       Birthday| 20/01
+ Gender | Female
+ Favorite color | Black
+ Favorite food | Steak
+ Pinneapple on pizza | Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
 Hobbies (smaller header)
 This should contain a bullet list of your hobbies.
