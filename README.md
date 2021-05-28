@@ -1,7 +1,8 @@
 # Elsa da Silveira
 
-*You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.* – Unknown
-![Me](C:\Users\elsa_\Documents\WebDev\me.jpg)
+*You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.* – Unknown\
+
+![Me](/WebDev/me.jpg)
 
 ## Versatile with an ability to adapt to any situation
 
