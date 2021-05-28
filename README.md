@@ -12,26 +12,35 @@
  &Gender | Female|
  |Favorite color | Black|
  |Favorite food | Steak|
- |Pinneapple on pizza | - [ ]Yes
- 			 - [x]No |
+ |Pinneapple on pizza | - [ ]Yes - [x]No |
 
-Hobbies (smaller header)
-This should contain a bullet list of your hobbies.
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+## Hobbies 
+ 
+ + Reading
+ + Tv series
+ + Movies
+   - sci-fi
+   - suspense
+   - fantasy
+ + coloring
 
-You can always count on me when (smaller header)
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+## You can always count on me when
+ 
+ I'll always try to help you as much as i can, giving you tips or by just being there for moral support.
 
-A funny story (smaller header)
-Tell a short funny story about your life.
+## A funny story 
+ 
+ When i was working for Ryanair, i was with a friend of mine also portuguese, at the departures hall in Charleroi getting lunch, and we heard a little girl talking in a really weird language. I look at my friend and say in portuguese 'what a weird language she is talking. How can kids learn weird languages?' 
+ The kids mother heard us and replied in portuguese ' it's a weird language, isn't it? It's luxembourgish....'
+ Lesson of the story always be careful with what you say.
 
-TL;DR (even smaller header, under funny story)
-Summerise your funny story in one short sentence.
+## TL;DR 
+ 
+ Always be careful with what you say.
 
 At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
 Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+<< previous || da SILVEIRA || next >>
