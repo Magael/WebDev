@@ -15,7 +15,7 @@
  |Gender | Female|
  |Favorite color | Black|
  |Favorite food | Steak|
- |Pinneapple on pizza | -[ ]Yes -[x]No |
+ |Pinneapple on pizza | - [ ] Yes - [x] No|
 
 ---
 ## Hobbies 
