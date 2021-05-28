@@ -15,7 +15,9 @@
  |Gender | Female|
  |Favorite color | Black|
  |Favorite food | Steak|
- |Pinneapple on pizza | - [ ]Yes - [x]No|
+ 
+ Pinneapple on pizza  - [ ]Yes 
+ 		      - [x]No
 
 ---
 ## Hobbies 
@@ -52,4 +54,4 @@
 
 
 
-<< previous || da SILVEIRA || ![next >>](https://github.com/Hallomoto-beta/challenge-markdown/blob/main/markdown.md)
+<< previous || da SILVEIRA || [next >>](https://github.com/Hallomoto-beta/challenge-markdown/blob/main/markdown.md)
