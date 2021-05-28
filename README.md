@@ -6,9 +6,9 @@
 
 ## Versatile with an ability to adapt to any situation
 
- Header 1        Header 2 
- ------------- | ------------
-       Birthday| 20/01
+ Header 1  |  Header 2 
+ --------- | ------------
+   Birthday| 20/01
  Gender | Female
  Favorite color | Black
  Favorite food | Steak
